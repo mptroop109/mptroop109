@@ -1,0 +1,1951 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<mediaGroup>
+	<groupInfo>
+		<identifier>bluefire.adobe.gallery1</identifier>
+		<thumbnailPath src='gallerythumb.jpg' />
+		<previewPath src='' />
+		<galleryName>2010_Half_Dome</galleryName>
+		<galleryDescription>Photo Gallery</galleryDescription>
+		<galleryVersion>1.0</galleryVersion>
+		<x:xmpmeta xmlns:x='adobe:ns:meta/' >
+			<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' >
+				<rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="" >
+					<dc:creator>
+						<rdf:Seq>
+							<rdf:li>Adobe Systems</rdf:li>
+						</rdf:Seq>
+					</dc:creator>
+					<dc:date>2006-05-23T12:00-00:00</dc:date>
+				</rdf:Description>
+				<rdf:Description xmlns:xap="http://ns.adobe.com/xap/1.0/" rdf:about="" >
+					<xap:CreatorTool>Adobe Bridge 2.0</xap:CreatorTool>
+				</rdf:Description>
+			</rdf:RDF>
+		</x:xmpmeta>
+		<windowSize x='auto' y='auto' />
+		<category>Web Photo Gallery</category>
+		<styleNS url="adobe.com/schemas/webphotogallery1" />
+		<windowSize width='auto' height='auto' />
+		<custom>
+			<siteTitle>2010 Half Dome Trip</siteTitle>
+			<groupTitle>Photo Gallery</groupTitle>
+			<groupDescription>Troop 109 goes to Yosemite and climbs Half Dome!</groupDescription>
+			<contactName>Webmaster</contactName>
+			<contactEmail>mailto:webmaster@mptroop109.com</contactEmail>
+		</custom>
+	</groupInfo>
+
+	<sizes>
+		<imageSize size='large' maxwidth='1600' maxheight='1600' />
+		<imageSize size='medium' maxwidth='1024' maxheight='1024' />
+		<imageSize size='thumb' maxwidth='96' maxheight='96' />
+	</sizes>
+
+	<media>
+	<item>
+		<title>DSC01511.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01511.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01511.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01511.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01528.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01528.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01528.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01528.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01535.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01535.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01535.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01535.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01546.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01546.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01546.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01546.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01553.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01553.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01553.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01553.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01554.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01554.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01554.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01554.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01560.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01560.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01560.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01560.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01565.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01565.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01565.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01565.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01567.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01567.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01567.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01567.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01568.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01568.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01568.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01568.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01577.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01577.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01577.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01577.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01584.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01584.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01584.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01584.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01587.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01587.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01587.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01587.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01599.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01599.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01599.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01599.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01616.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01616.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01616.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01616.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01626.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01626.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01626.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01626.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01627.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01627.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01627.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01627.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01631.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01631.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01631.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01631.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01635.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01635.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01635.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01635.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01647.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01647.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01647.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01647.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01648.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01648.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01648.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01648.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01650.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01650.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01650.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01650.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01651.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01651.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01651.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01651.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01654.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01654.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01654.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01654.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01660.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01660.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01660.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01660.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01661.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01661.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01661.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01661.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01668.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01668.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01668.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01668.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01673.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01673.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01673.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01673.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01677.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01677.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01677.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01677.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01679.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01679.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01679.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01679.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01683.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01683.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01683.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01683.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01685.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01685.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01685.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01685.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01690.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01690.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01690.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01690.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01692.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01692.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01692.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01692.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01698.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01698.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01698.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01698.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01703.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01703.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01703.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01703.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01711.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01711.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01711.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01711.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01712.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01712.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01712.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01712.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01713.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01713.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01713.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01713.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01715.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01715.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01715.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01715.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01720.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01720.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01720.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01720.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01724.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01724.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01724.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01724.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01731.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01731.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01731.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01731.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01749.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01749.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01749.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01749.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01753.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01753.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01753.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01753.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01754.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01754.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01754.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01754.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01758.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01758.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01758.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01758.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01759.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01759.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01759.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01759.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01760.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01760.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01760.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01760.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01761.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01761.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01761.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01761.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01774.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01774.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01774.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01774.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01776.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01776.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01776.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01776.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01778.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01778.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01778.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01778.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01779.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01779.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01779.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01779.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01782.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01782.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01782.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01782.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01785.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01785.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01785.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01785.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01787.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01787.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01787.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01787.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01791.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01791.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01791.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01791.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01792.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01792.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01792.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01792.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01794.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01794.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01794.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01794.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01798.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01798.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01798.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01798.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01799.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01799.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01799.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01799.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01800.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01800.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01800.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01800.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01802.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01802.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01802.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01802.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01803.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01803.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01803.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01803.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01804.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01804.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01804.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01804.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01805.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01805.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01805.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01805.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01807.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01807.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01807.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01807.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01808.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01808.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01808.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01808.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01809.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01809.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01809.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01809.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01811.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01811.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01811.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01811.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01812.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01812.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01812.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01812.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01815.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01815.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01815.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01815.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01818.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01818.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01818.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01818.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01819.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01819.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01819.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01819.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01820.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01820.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01820.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01820.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01821.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01821.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01821.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01821.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01824.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01824.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01824.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01824.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01825.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01825.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01825.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01825.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01829.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01829.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01829.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01829.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01830.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01830.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01830.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01830.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01831.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01831.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01831.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01831.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01832.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01832.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01832.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01832.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01836.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01836.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01836.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01836.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01844.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01844.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01844.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01844.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01852.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01852.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01852.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01852.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01854.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01854.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01854.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01854.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01857.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01857.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01857.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01857.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01858.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01858.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01858.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01858.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01859.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01859.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01859.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01859.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01867.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01867.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01867.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01867.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01868.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01868.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01868.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01868.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01869.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01869.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01869.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01869.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01870.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01870.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01870.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01870.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01871.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01871.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01871.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01871.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01877.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01877.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01877.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01877.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01878.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01878.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01878.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01878.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01879.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01879.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01879.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01879.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01881.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01881.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01881.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01881.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01885.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01885.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01885.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01885.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01887.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01887.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01887.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01887.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01892.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01892.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01892.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01892.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01894.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01894.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01894.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01894.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01895.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01895.jpg' height='600' width='800' size='large' />
+			<rendition src='images/medium/DSC01895.jpg' height='600' width='800' size='medium' />
+			<rendition src='images/thumb/DSC01895.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01897.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01897.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01897.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01897.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>DSC01899.JPG</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/DSC01899.jpg' height='600' width='450' size='large' />
+			<rendition src='images/medium/DSC01899.jpg' height='600' width='450' size='medium' />
+			<rendition src='images/thumb/DSC01899.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett1.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett1.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett1.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett1.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett2.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett2.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett2.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett2.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett3.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett3.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett3.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett3.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett4.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett4.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett4.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett4.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett5.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett5.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett5.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett5.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett6.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett6.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett6.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett6.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett7.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett7.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett7.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett7.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett8.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett8.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett8.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett8.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett9.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett9.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett9.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett9.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett10.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett10.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett10.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett10.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett11.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett11.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett11.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett11.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett12.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett12.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett12.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett12.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett13.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett13.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett13.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett13.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett14.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett14.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett14.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett14.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett15.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett15.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett15.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett15.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett16.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett16.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett16.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett16.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett17.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett17.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett17.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett17.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett18.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett18.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett18.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett18.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett20.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett20.jpg' height='540' width='720' size='large' />
+			<rendition src='images/medium/Liggett20.jpg' height='540' width='720' size='medium' />
+			<rendition src='images/thumb/Liggett20.jpg' height='72' width='96' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett21.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett21.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett21.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett21.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	<item>
+		<title>Liggett22.jpg</title>
+		<description />
+		<metadata></metadata>
+		<photographer></photographer>
+		<copyright></copyright>
+		<imageId image='' dbtype='' dbname='' />
+		<mediaType category='image' format='jpeg' />
+		<renditions>
+			<rendition src='images/large/Liggett22.jpg' height='720' width='540' size='large' />
+			<rendition src='images/medium/Liggett22.jpg' height='720' width='540' size='medium' />
+			<rendition src='images/thumb/Liggett22.jpg' height='96' width='72' size='thumb' />
+		</renditions>
+	</item>
+
+	</media>
+</mediaGroup>
