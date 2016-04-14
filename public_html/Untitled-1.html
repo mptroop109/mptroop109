@@ -1,0 +1,181 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Menlo Park - Atherton Troop 109  :  Boy Scouts of America (BSA)</title>
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFCC67;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url(images/Background%20Swirl%20Green.jpg);
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 0px;
+	padding-left: 0px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+}
+
+/* ~~ this fixed width container surrounds the other divs ~~ */
+.container {
+	width: 1000px;
+	background-color: #FFF;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+}
+
+/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
+.header {
+	background-color: #ADB96E;
+}
+
+/* ~~ This is the layout information. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the div. The elements within this div have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+*/
+
+.content {
+
+	padding: 10px 0;
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	padding: 10px 0;
+	background-color: #CCC49F;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+-->
+#faded { 
+	width:688px;
+	height:482px;
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+a { outline:0; border:0; }
+#faded .prev {
+	display:block;
+	width:33px;
+	height:33px;
+	background:url(http://www.mptroop109.com/images/Background Swirl Green.jpg) left top no-repeat;
+	text-decoration:none;
+	position:absolute;
+	top:0px;
+	right:0px;
+}
+	#faded .prev:hover {
+		background:url(http://www.mptroop109.com/images/Background Swirl Green.jpg) left top no-repeat;
+	}
+#faded .next {
+	display:block;
+	width:33px;
+	height:33px;
+	background:url(http://www.mptroop109.com/images/Background Swirl Green.jpg) left top no-repeat;
+	text-decoration:none;
+	position:absolute;
+	top:33px;
+	right:0px;
+}
+	#faded .next:hover {
+		background:url(http://www.mptroop109.com/images/Background Swirl Green.jpg) left top no-repeat;
+	}
+
+</style>
+<script type="text/javascript" src="js/highlight.js"></script>
+<script type="text/javascript" src="js/html5.js"></script>
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script src="js/jquery.faded.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div class="container" >
+ <div class="header"><a><img src="images/Header/Troop Header 1.jpg" alt="Interested in Joining? Click Eagle" width="1000" height="152" usemap="#Map" border="0" align="absmiddle" /></a></div>
+ <div class="container">
+ <table background="images/Background Swirl Green.jpg" style="width: inherit">
+ 	<tr>
+    	<td><a href="default.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','images/home_new_2.gif',1)"><img src="images/home_new_1.gif" width="120" height="45" id="Home" /></a>
+        </td>
+        <td><a href="protected.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','images/login_new_2.gif',1)"><img src="images/login_new_1.gif" width="120" height="45" id="Login" /></a>
+        </td>
+        <td><a href="whyjoin.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('WhyJoin','','images/why_join_2.gif',1)"><img src="images/why_join_1.gif" width="120" height="45" id="WhyJoin" /></a>
+        </td>
+    	<td><a href="t109calendar.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Cal','','images/calendar_new_2.gif',1)"><img src="images/calendar_new_1.gif" width="120" height="45" id="Cal" /></a>
+        </td>
+        <td><a href="t109resources.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Resources','','images/resources_new_2.gif',1)"><img src="images/resources_new_1.gif" width="120" height="45" id="Resources" /></a>
+        </td>
+        <td><a href="photogallery.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Photos','','images/photos_new_2.gif',1)"><img src="images/photos_new_1.gif" width="120" height="45" id="Photos" /></a>
+        </td>
+        <td><a href="links.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Links','','images/links_new_2.gif',1)"><img src="images/links_new_1.gif" width="120" height="45" id="Links" /></a>
+        </td>
+        <td><a href="contactus.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact','','images/contact_new_2.gif',1)"><img src="images/contact_new_1.gif" width="120" height="45" id="Contact"/></a>
+        </td>
+	</tr>        
+ </table>
+ </div>
+ <div class="content" align="absmiddle"  id="mainContent" style="width:1024; background-color: #FFCC67">
+    <h2>Welcome to   Menlo Park - Atherton Troop 109!</h2>
+    <p>Celebrating our 79th year, Boy Scouts of America Troop 109 serves Menlo Park, Atherton, Redwood City, and the surrounding  communities.&nbsp; The scout-led troop is not affiliated with a religious organization, and focuses on diversity,  inclusiveness, leadership, and independence.&nbsp; </p>
+    <p>Troop 109 is unique in being the &quot;ideal size&quot; for  scouts at all levels. With about 40-60 scouts, T109 is small enough to provide individualized attention to the needs of each  scout. With 7 patrols, T109 is large enough for leadership opportunities and development. Scouts are supported in the acquisition of skills and advancement, with many achieving Eagle rank.</p>
+    <p>Activities (such as hiking, overnight camping and backpacking, white  water rafting, orienteering, community service, etc.) occur at least once a month. Families may be included in activities, whenever possible. T109 scouts also have other interests (e.g. jazz band, drama, football, baseball, cross-country, etc.), and are able to balance scouting with all of these, including school work.</p>
+    <p>Troop 109  meets monthly,  usually the 1st Tuesday of each month, at the Hillview Middle School Libary (Menlo Park) from 7:30 to 8:30 pm. </p>
+    <p>Applications are generally accepted in early Spring of each year. Please contact Scoutmaster Ryan Vesely at <a href="mailto:scoutmaster@mptroop109.com">scoutm</a><a href="mailto:scoutmaster@mptroop109.com">aster@mptroop 109.com</a> for more information.</p>
+<h2>What's Troop 109 All About?</h2>
+  <div id="faded" align="center" class="content" >
+  	<div style="position:relative">
+    <img src="images/New Images 9-2010/DSC09134.jpg" alt="Slide 1" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;" />
+    <img src="images/New Images 9-2010/IMG_8481 (Large) cropped.jpg" alt="Slide 2" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;" />
+    <img src="images/New Images 9-2010/IMG_7396 (Large).JPG" alt="Slide 3" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;"/>    
+    <img src="images/New Images 9-2010/IMG_6587 cropped (Large).jpg" alt="Slide 4" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;"/>
+    <img src="images/New Images 9-2010/IMG_6530 (Large).JPG" alt="Slide 5" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;"/>
+    <img src="images/New Images 9-2010/DSC09134.jpg" alt="Slide 6" style="position: absolute; top: 0px; left: 0px; z-index: 0; display: none;"/>
+    </div>
+  </div>  
+
+ </div>
+  <div class="footer">
+    <p>Footer</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
